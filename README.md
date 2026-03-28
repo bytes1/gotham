@@ -3,7 +3,7 @@
 **The First Natively Encrypted Financial Layer for Autonomous Artificial Intelligence**
 
 [![Status: Ideation Phase](https://img.shields.io/badge/Status-Ideation%20Phase-yellow)](#)
-[![Network: Fhenix L2](https://img.shields.io/badge/Network-Fhenix%20L2-blue)](#)
+[![Network: Sepolia L2](https://img.shields.io/badge/Network-Fhenix%20L2-blue)](#)
 
 > **Note:** Gotham Protocol is currently in the early ideation phase. The concepts and architectural structures described below represent our target vision.
 
