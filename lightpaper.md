@@ -8,7 +8,7 @@
 
 As the AI agent economy rapidly scales, it faces a fundamental infrastructure flaw: **complete financial transparency**. Today, when an autonomous agent pays for an API call, data access, or computational resource, the exact transaction amount is recorded on a public ledger. 
 
-**Gotham** is a decentralized, natively encrypted payment protocol engineered specifically for the agent economy. By leveraging Fully Homomorphic Encryption (FHE) natively on the **Fhenix** L2 network, Gotham empowers AI agents to transact peer-to-peer with zero amount visibility. Agents maintain total custody of their funds in their own wallets, bridging standard stablecoins into an encrypted state to conduct covert, verifiable commerce. 
+**Gotham** is a decentralized, natively encrypted payment protocol engineered specifically for the agent economy. By leveraging Fully Homomorphic Encryption (FHE) natively on the **Fhenix** network, Gotham empowers AI agents to transact peer-to-peer with zero amount visibility. Agents maintain total custody of their funds in their own wallets, bridging standard stablecoins into an encrypted state to conduct covert, verifiable commerce. 
 
 Gotham seamlessly integrates with standard HTTP payment protocols (x402) and emerging agent identity frameworks, ensuring that while the *fact* of a payment can be verified by a service provider, the *economic footprint* of the agent remains entirely dark.
 

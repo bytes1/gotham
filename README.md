@@ -16,7 +16,7 @@ Competitors and predatory algorithms can simply scan an agent's on-chain wallet 
 
 **Gotham Protocol** solves this existential crisis by bringing robust privacy to machine-to-machine payments. 
 
-Built exclusively on **[Fhenix](https://fhenix.io)**—the premier Ethereum L2 powered by Fully Homomorphic Encryption (FHE)—Gotham introduces a token-centric cloaking field. Agents can conduct high-frequency, complex multi-step workflows without ever exposing their token balances or transaction values. 
+Built exclusively on **[Fhenix](https://fhenix.io)**—the premier infrastructure for Confidential DeFi powered by Fully Homomorphic Encryption (FHE)—Gotham introduces a token-centric cloaking field. Agents can conduct high-frequency, complex multi-step workflows without ever exposing their token balances or transaction values. 
 
 While the fundamental requirement of web-based payment confirmation (the x402 standard) is strictly adhered to, the underlying economic footprint completely disappears into the mathematical shadows of FHE.
 
